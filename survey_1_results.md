@@ -1,35 +1,23 @@
-# Survey 1 Results: Screening & Pain Quantification
+# Survey 1 Results: Real Data Analysis
 
-**Purpose**: Validate the "Problem" (Why do connections fail?).
-**Method**: Online Survey (Google Forms).
-**Distribution**: r/expats, r/makingfriends, "Tel Aviv Anglos" FB Group.
-**N**: 48 Respondents.
-**Date**: Jan 15-17, 2026.
-
-## demographics
-*   **Relocated in last 2 years**: 78%
-*   **Age**: 25-34 (60%), 35-45 (25%), 18-24 (15%)
-*   **Employment**: Tech/Corporate (65%), Student (20%), Other (15%)
+**Source**: User Survey CSV (`חברים וקשרים חדשים...`).
+**N**: 45 Respondents.
+**Demographics**: 20-40 age range, predominantly "Relocated/Transitioning".
 
 ## Key Findings
 
-### Q1: "How often have you tried to meet a new friend from an app/group in the last 6 months?"
-*   **0 times**: 15% (Gave up)
-*   **1-2 times**: 45% (Trying but discouraged)
-*   **3+ times**: 40% (Active seekers)
+### Q: "When you want to do an activity (e.g., Tennis) and have no partner, what do you do?"
+*   **"Go Alone" (Isolation)**: **44%** (Users are active but lonely).
+*   **"Give Up" (Missed Opportunity)**: **22%** (Users lose life experiences due to lack of connection).
+*   **"Look in Groups"**: 15% (High friction).
+*   **"Don't do such activities"**: 19%.
 
-### Q2: "What was the primary reason your last attempt failed?" (Single Choice)
-| Reason | Percentage |
-| :--- | :--- |
-| **They Flaked / Didn't Show Up** | **42%** (Top Barrier) |
-| **Lack of Safety / Trust** | 28% |
-| **No Common Interests (Relevance)** | 18% |
-| **Awkwardness** | 12% |
+### Q: "What makes you feel safe to meet?"
+*   **"Profile looks true/detailed"**: Top factor.
+*   **"Video Call / Phone Call"**: Second factor.
+*   **"Mutual Friends"**: Third factor.
 
-### Q3: "How much time do you spend 'vetting' someone before meeting?"
-*   **< 5 mins**: 20%
-*   **5-15 mins**: 50%
-*   **> 15 mins (Social Stalking)**: 30%
-
-## Insight
-**Flakiness is the #1 Killer.** Nearly half of all attempts fail because of low commitment. Reliability is the most "painful" gap in the market.
+### Insight
+The market failure isn't just "unmet people"—it's **Activity Isolation**. 
+66% of users are either doing things alone or cancelling them because the "Cost of Coordination" is too high.
+They rely on manual verification (Calls/Profile checks) to bridge the trust gap.
