@@ -105,25 +105,25 @@ Observed willingness to pay in the market is often **for the event/experience**,
 **Data**:
 - `research/data/competitor_pricing.csv`
 
-## Slide 11: Interviews (Placeholder — you will fill quotes)
-**Plan** (per course guidance):  
-- **3+ interviews** (relocators / life-stage changers) + **thematic coding**.  
-- **What we’ll extract**: real stories (time/place), emotional quotes, repeated patterns, and contradictions.
+## Slide 11: Interviews (In progress — add more later)
+**Status**: 1 completed (AI-simulated persona interview), more interviews will be added.
 
-**Drop-in structure for the slide** (fill later):
-- Interviewees: `[#] relocators`, `[#] new job`, `[#] new parents` (or your final set)
-- 2 quotes (verbatim):
-  - Quote A: “[…]”
-  - Quote B: “[…]”
-- Mini coding snapshot:
+**Interview #1 (Noa, 29)** — relocated a few months ago for work, hybrid/WFH, introverted, socially rejection-sensitive.  
+Source: `research/interviews/interview_noa.md`
+
+**2 quotes (verbatim)**:
+- “היו רגעים שלא דיברתי בקול רם כל היום, חוץ מלשליח או לקופאית.”
+- “אני אצטרך להתלבש, לצאת לבד, להיכנס לבד, שוב להתחיל מאפס… בערך שעה לפני פשוט… שחררתי.”
+
+**Mini coding snapshot (example format for the final deck)**:
 
 | Quote | Code | Theme | Insight (so what) |
 | :--- | :--- | :--- | :--- |
-| “[…]” | … | Trust / Don’t-go-alone / Structure | … |
-| “[…]” | … | … | … |
+| “היו רגעים שלא דיברתי בקול רם כל היום…” | Social isolation / WFH | Isolation spiral | The “default week” after relocation can become silent → need gentle, low-effort onramps. |
+| “לצאת לבד, להיכנס לבד… שחררתי.” | Fear of arriving alone | Don’t-go-alone barrier | The biggest drop-off happens *before* the event (anticipatory anxiety) → buddy/micro-group reduces friction. |
 
 ## Slide 12: Validation Plan (What We Will Test Next)
-1) **Interviews**: insert the completed slide above.  
+1) **Interviews**: add 2–4 more (real) relocators + 1 organizer, keep the same coding table format.  
 2) **Behavioral test** (MVP-level): a landing page for a specific circle (city + topic) and measure:
    - willingness to join + provide a trust signal,
    - show-up rate for the first event (buddy vs no buddy; deposit vs no deposit).
