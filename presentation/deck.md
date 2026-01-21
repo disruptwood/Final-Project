@@ -72,10 +72,32 @@
 
 ## Slide 7: Competitive Analysis (Where the Gap Is)
 **Landscape**
-- Open matching: Bumble For Friends.
-- Open events: Meetup.
-- Curated experiences: Timeleft.
-- Paid clubs: Soho House.
+Goal: Show the main alternatives a relocator uses today, and the specific gap our product targets: reliability + emotional safety for the first meet + repeat.
+
+Include these competitor types (pick 6–8 total):
+
+Friend-matching apps: Bumble BFF, (optionally) Friender / Patook (if in your table)
+Open event platforms: Meetup
+Curated social dinners / paid events: Timeleft
+Expat communities: InterNations
+Local interest groups / chats: Facebook Groups / WhatsApp groups
+Premium gated communities (WTP proof, not direct competitor): Soho House (optional)
+Invite-only professional networks (optional, only if you keep as “premium gated” reference): Chief / YPO (appendix if needed)
+Format (use a simple matrix, not a long table):
+Columns = the barriers we measured + “real-world conversion”
+
+Trust/Safety: identity checks, moderation, rules
+Go-alone support: hosted entry / buddy / small-group default
+Commitment: RSVP friction, penalties, reputation, membership
+Repeatability: recurring cohorts / same faces / follow-up design
+Offline conversion: designed to get people from online → meeting → repeat
+Rows = competitors (from table of concurents from desk research.csv) + “Us”.
+
+What to write (tight bullets under the matrix):
+
+“Most options optimize discovery, not reliability: no-show and awkward first meet remain unsolved.”
+“Curated communities prove people pay for safety/curation—but they’re expensive or not designed for relocators.”
+“Opportunity: a B2C product that makes first meet safe + increases show-up + drives repeat.”
 
 **Gap (our framing)**
 - Few solutions combine trust/reliability signals with a repeatable first-meet structure that reduces “go-alone” friction.
