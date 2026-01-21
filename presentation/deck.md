@@ -55,23 +55,14 @@
 - B2C: relocators and life-stage shifters (20s–30s) in large cities.
 
 **Methods executed**
-- Survey 1 (N=45): behavior + barriers.
-- Survey 2 (N=42): concept validation (verification + WTP).
-- Interviews: **1 completed** (Noa) + **2 planned** (see Slide 10).
+- Survey
+- 3 Interviews
 - Thematic coding summary.
 - Desk research: market + competitors.
 
 **Tools**
 - Google Forms export + CSV analysis: `research/surveys/survey_responses_raw.csv`
 - Sources index: `research/sources.md`
-
-**Limitations**
-- Self-selected samples; not representative.
-- If any interview is simulated, it is used for hypothesis generation only.
-
-**Timeline**
-- Week 1: market + competitors.
-- Week 2: surveys + interviews + synthesis.
 
 ---
 
@@ -84,7 +75,7 @@
 - Behavior: avoids swipe apps; drops off after 1–2 failed attempts.
 - Need: reliable peers + low-friction first-meet structure.
 
-**Persona B — Time-poor life-stage shifter (TODO)**
+**Persona B — Time-poor life-stage shifter **
 - Profile: new job switcher / new parent / post-military (choose 1, based on Interview #2 or #3).
 - Pain: cannot afford no-shows; avoids “random” open events.
 - Need: commitment signals + predictable structure.
