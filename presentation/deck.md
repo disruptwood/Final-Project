@@ -7,11 +7,11 @@
 **Promise**: lower the risk of showing up (trust + structure) so people actually attend.
 
 ---
-### Speaker Notes (optional)
-- We are not building “Tinder for friends”. We’re building a structured path from “I want to go” → “I actually go”.
+### optional notes
+- we are not building “Tinder for friends”. we’re building a structured path from “I want to go” → “I actually go”.
 
-## Slide 2: Evidence of the Core Barrier (Survey N=45)
-From our real survey (`research/surveys/survey_responses_raw.csv`):
+## Slide 2: Evidence of the Core Barrier
+From our survey (`research/surveys/survey_responses_raw.csv`):
 - **53%** go alone when they have no partner (24/45).  
 - **36%** either give up or don’t do the activity at all (16/45).  
 - **40%** rate “going alone to a social activity” as hard/very hard (4–5 on a 1–5 scale).  
