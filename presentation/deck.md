@@ -5,36 +5,42 @@
 
 ## Slide 1: Title and One-Liner
 **Project**: Verified Connections  
-**One-liner**: A trust- and structure-first way for relocators to build reliable social circles.  
+**One-liner**: Verified onboarding + reliability signals that make first meetings safe and repeatable.  
 **Team**: [Names]
 
 ---
 
-## Slide 2: Problem Statement (Evidence First)
+## Slide 2: Problem Statement + Topic Overview (What’s happening?)
+**Topic**: Building new friendships after relocation / life-stage change.  
 **Problem statement**: After relocation, adults do not lack events. They lack emotional safety and a reliable structure to show up and return.
 
-**Evidence (survey N=45)**:
+**Evidence (Survey 1, N=45)**
 - 53% go alone when they have no partner; 36% give up or skip the activity.
 - 40% rate "going alone" as hard/very hard (avg 3.27/5).
 
-**User voice (AI-simulated interview)**:
-- "It feels like an audition. I have to go in alone and perform." (Noa)
+**User voice (Interview 1: Noa)**
+- "It feels like an audition. I have to go in alone and perform."
 
 **Visual**: `presentation/assets/survey_no_partner_behavior.png`  
-**Source**: `research/surveys/survey1_summary.md`, `research/interviews/interview_noa.md`
+**Sources**: `research/surveys/survey1_summary.md`, `research/interviews/interview_noa.md`
 
 ---
 
 ## Slide 3: Research Question (Evolution)
 **Initial RQ**: Why do relocators fail to form new social ties even when apps and events exist?  
 **Early signals**: People avoid going alone and fear awkwardness more than logistics.  
-**Refined RQ**: Which mechanisms reduce emotional risk and "go-alone" friction to increase show-up and repeat meetings?  
-**Success metrics**: show-up rate, repeat attendance (3-4 meetings), at least 1 meaningful connection.
+**Refined RQ**: Which mechanisms reduce emotional risk and “go-alone” friction to increase show-up and repeat meetings?  
+**Success metrics**: show-up rate, repeat attendance (3–4 meetings), at least 1 meaningful connection.
 
 ---
 
-## Slide 4: Research Plan (Goals, Questions, Methods)
-**Goals**
+## Slide 4: Research Plan (Phases + Methods + Tools)
+**Phases**
+- Market research
+- Competitive analysis
+- Customer/user research
+
+**Research goals**
 - Identify the core barriers to forming connections after relocation.
 - Map the competitive landscape and trust mechanisms.
 - Test willingness to verify and pay for reliability.
@@ -46,125 +52,160 @@
 - What level of verification and payment is acceptable?
 
 **Target audience**
-- B2C: relocators and life-stage shifters (20s-30s) in large cities.
+- B2C: relocators and life-stage shifters (20s–30s) in large cities.
 
-**Methods**
-- Survey 1 (N=45) on behavior and barriers.
-- Survey 2 (N=42) concept validation (verification + WTP).
-- AI-simulated interview (Noa); thematic coding draft for early insights.
-- Desk research: market and competitor scan.
+**Methods executed**
+- Survey 1 (N=45): behavior + barriers.
+- Survey 2 (N=42): concept validation (verification + WTP).
+- Interviews: **1 completed** (Noa) + **2 planned** (see Slide 10).
+- Thematic coding summary.
+- Desk research: market + competitors.
+
+**Tools**
+- Google Forms export + CSV analysis: `research/surveys/survey_responses_raw.csv`
+- Sources index: `research/sources.md`
 
 **Limitations**
 - Self-selected samples; not representative.
-- AI-simulated interview used for hypothesis generation only.
+- If any interview is simulated, it is used for hypothesis generation only.
 
 **Timeline**
 - Week 1: market + competitors.
 - Week 2: surveys + interviews + synthesis.
 
-**Sources**: `research/surveys/survey1_summary.md`, `research/surveys/survey2_summary.md`, `research/interviews/interview_noa.md`, `research/competitors/competitor_matrix.md`
+---
+
+## Slide 5: Target Audience + Personas (B2C)
+**Target audience**: relocators / expats / life-stage shifters (20s–30s) in large cities.
+
+**Persona A — Relocator (high intent)**
+- Profile: Omer, 32, relocated tech professional.
+- Pain: high time cost + fear of awkward first meetings.
+- Behavior: avoids swipe apps; drops off after 1–2 failed attempts.
+- Need: reliable peers + low-friction first-meet structure.
+
+**Persona B — Time-poor life-stage shifter (TODO)**
+- Profile: new job switcher / new parent / post-military (choose 1, based on Interview #2 or #3).
+- Pain: cannot afford no-shows; avoids “random” open events.
+- Need: commitment signals + predictable structure.
+
+**Sources (Persona A draft)**: `research/synthetic/synthetic_interviews.md`
 
 ---
 
-## Slide 5: Market Context (Why Now)
-**Relocation scale**
+## Slide 6: Market Research (Context + Trends + Sizing)
+**Why now**
 - 281M global migrants (UN, 2020).
 - 12.1% of US population moves annually (Census, 2023).
+- 57% of 18–35 in Europe report moderate to severe loneliness (Bertelsmann, 2024).
 
-**People pay for curated social experiences**
-- Timeleft dinner: $16 per ticket.
-- Soho Friends membership: $130 per year.
+**Willingness-to-pay anchors (B2C)**
+- Timeleft: $16 per ticket.
+- Soho Friends: $130/year.
 
-**Trend: loneliness is high**
-- 57% of 18-35 in Europe report moderate to severe loneliness (Bertelsmann, 2024).
+**Market sizing (proxy TAM/SAM/SOM)**
+- **TAM (global)**: 281M international migrants (UN, 2020).
+- **SAM (annual movers, US proxy)**: 12.1% of population moves each year (Census, 2023).
+- **SOM (city pilot proxy)**: Berlin annual inflow 187,971 (2023).
 
-**Implication**: Mobility creates demand, and curated social products prove willingness to pay.
+**Interpretation**: Start with one-city SOM, prove repeat attendance, expand city-by-city.
 
 **Sources**: `research/data/key_metrics_wtp_proxies.csv`, `research/data/competitor_pricing.csv`, `research/sources.md`
 
 ---
 
----
+## Slide 7: Competitive Analysis (Direct + Indirect)
+**Direct competitors (B2C)**
+- Bumble For Friends (open matching).
+- Meetup (open events).
+- Timeleft (curated events).
 
-## Slide 6: Market Sizing (Proxy)
-**TAM (global)**: 281M international migrants (UN, 2020)  
-**SAM (annual movers, US proxy)**: 12.1% of population moves each year (Census, 2023)  
-**SOM (city pilot proxy)**: Berlin annual inflow 187,971 (2023)
+**Indirect competitors**
+- WhatsApp/FB interest groups (low barrier, noisy).
+- Premium clubs (Soho House; high curation).
 
-**Interpretation**: The addressable audience is large; we start with a single-city SOM and expand by city once repeat attendance is validated.
-
-**Sources**: `research/data/key_metrics_wtp_proxies.csv`
-
----
-
-## Slide 7: Competitive Landscape (B2C)
-**Status quo**
-- Open matching: Bumble For Friends.
-- Open events: Meetup.
-- Curated events: Timeleft.
-- Premium clubs: Soho House.
-
-**Gap**: Few solutions combine trust signals with a repeatable structure that lowers the "go-alone" risk.
+**Key gap**
+- Few solutions combine verification/reliability signals with a repeatable first-meet structure that reduces “go-alone” friction.
 
 **Visual**: `presentation/assets/competitor_matrix.png`  
-**Sources**: `research/competitors/competitor_matrix.md`, `research/data/competitor_pricing.csv`
+**TODO (visual/framework)**: add a 2×2 positioning map (Open↔Curated vs One-off↔Recurring).  
+**Sources**: `research/competitors/competitor_matrix.md`, `research/data/competitor_pricing.csv`, `research/competitors/competitiors_comp.md`
 
 ---
 
-## Slide 8: Survey Insights (Behavior + WTP)
-**Behavior**
-- When no partner: 53% go alone; 36% give up or skip the activity.
-- 40% rate going alone as hard/very hard.
+## Slide 8: Customer/User Research — Key Findings (Quant, Survey 1)
+**What people do when they have no partner (N=45)**
+- 53% go alone.
+- 36% give up or skip the activity.
 
-**Trust signals (open responses)**
+**How hard is it to go alone?**
+- 40% hard/very hard (avg 3.27/5).
+
+**What makes people feel safe enough to meet? (open answers)**
 - Video/phone call, real profile, mutual friends.
 
-**Concept validation (N=42, high-intent)**
-- 68% willing to link LinkedIn for verification.
-- 22% would pay $5/month for "no flakes" + verified profiles.
+**So what?**
+- The barrier is not event discovery; it’s the risk of the first attempt.
 
-**Sources**: `research/surveys/survey1_summary.md`, `research/surveys/survey2_summary.md`
-
----
-
-## Slide 9: Interview/Thematic Insights (Early)
-**Theme 1: Emotional safety is the core barrier**
-- "Apps feel unsafe emotionally, not physically." (Noa)
-
-**Theme 2: Structure beats spontaneity**
-- People avoid unstructured mingling; activity-based contexts reduce pressure.
-
-**Theme 3: Repeatability builds trust**
-- Connections form after several shared meetings.
-
-**Theme 4: Micro-recognition matters**
-- One meaningful interaction beats many shallow ones.
-
-**Sources**: `research/interviews/interview_noa.md`, `research/Thematic coding.md`
+**Source**: `research/surveys/survey1_summary.md`
 
 ---
 
-## Slide 10: Persona and Journey (Synthesized)
-**Persona**: Omer, 32, relocated tech professional.  
-**Pain**: High time cost and social risk; avoids open events and swipe apps.  
-**Need**: Reliable peers and a repeatable structure that makes showing up worth it.
+## Slide 9: Customer/User Research — Key Findings (Quant, Survey 2)
+**Verification willingness (N=42, high-intent segment)**
+- 68% willing to link LinkedIn.
 
-**Journey pattern**
-- Week 1: tries open events or groups, feels awkward and drops off.
-- Months 3-6: "quiet loneliness" sets in and effort declines.
+**WTP**
+- 22% would pay $5/month for “no flakes” + verified profiles.
 
-**Sources**: `research/synthetic/synthetic_interviews.md`, `research/Thematic coding.md`
+**So what?**
+- Verification is acceptable when it buys reliability.
+- There is a premium early adopter segment.
+
+**Source**: `research/surveys/survey2_summary.md`
 
 ---
 
-## Slide 11: Synthesis -> Product Requirements and Concept
-**If the product works, it must:**
-- Reduce the emotional risk of showing up alone.
-- Provide a structured activity as a social bridge.
-- Create repeatable circles where faces become familiar.
+## Slide 10: Customer/User Research — Interviews + Thematic Coding
+**Requirement (course)**: at least 3 interviews + thematic coding summary.
+
+**Interviews (status)**
+- Interview #1 (done): Noa — relocator (user). `research/interviews/interview_noa.md`
+- Interview #2 (TODO): relocator/expat in target age (user). *(add file + 3–5 quotes)*
+- Interview #3 (TODO): life-stage shifter (user) **or** expert (community organizer). *(add file + 3–5 quotes)*
+
+**Thematic coding summary (current draft)**
+- Emotional safety > physical safety.
+- Structure beats spontaneous mingling.
+- Repeatability (3–4 meetings) is required for real ties.
+- Micro-recognition: one meaningful moment drives belonging.
+
+**TODO (quotes)**: add 1–2 quotes per theme (max ~6 total in the deck).  
+**Source**: `research/Thematic coding.md`
+
+---
+
+## Slide 11: Synthesis (Insights -> Requirements)
+**Key insights**
+- People avoid social attempts when the emotional downside is high (awkwardness, “audition” feeling).
+- Reliability is a product feature (commitment signals + repeated presence), not just a user trait.
+- Trust is created by costly signals + clear structure, not by more matching.
+
+**Product requirements**
+- Reduce emotional risk of showing up alone.
+- Provide a structured “first-meet” flow (so nobody walks in alone).
+- Reward/ensure reliability (reduce no-shows, increase repeat meetings).
 - Use light verification to set baseline trust.
 
-**Verified Connections (B2C)**: verified profiles + reliability signals that reduce flakiness and make first meetings safe.
+---
+
+## Slide 12: Product Concept (UVP + Core Loop)
+**Unique value proposition**: “Reliable people, not random people.”
+
+**Concept (B2C)**
+- Verified onboarding (LinkedIn/photo) + clear rules.
+- Reliability signals (commitment score / no-show friction).
+- First-meet experience that reduces “go-alone” friction.
 
 **Core loop**
 1. Complete light verification (identity + context).
@@ -172,19 +213,17 @@
 3. Attend a first meeting with clear expectations.
 4. Re-match based on reliability score and repeat attendance.
 
-**Key feature**: "Digital host" to pair newcomers before the first event.
-
 ---
 
-## Slide 12: MVP, Metrics, Risks
-**MVP**
-- One city, verified onboarding (LinkedIn + photo).
+## Slide 13: MVP + Metrics + Risks
+**MVP (one city)**
+- Verified onboarding (LinkedIn + photo).
 - Reliability signals (commitment score / no-show friction).
-- First-meet flow with clear expectations and follow-up.
+- Hosted first-meet flow + follow-up.
 
 **Success metrics**
 - Show-up rate.
-- Repeat attendance (3-4 meetings).
+- Repeat attendance (3–4 meetings).
 - 1 meaningful connection per user (self-report).
 
 **Risks**
@@ -194,19 +233,19 @@
 
 ---
 
-## Slide 13: Business Model (Primary B2C, Optional B2B2C)
-**Primary**: B2C paid events -> recurring membership once density is proven.  
-**Pricing anchors**: Timeleft ($16 ticket), Soho Friends ($130/year).
+## Slide 14: Conclusion + Recommendation (Product Strategy)
+**Conclusion**
+- The main barrier is emotional safety and “go-alone” risk, not a lack of events.
+- Surveys show avoidance behavior and concrete trust signal needs.
+- The opportunity is a reliability layer: verification + commitment + repeat meetings.
 
-**Optional recommendation**: B2B2C as a distribution layer after B2C traction (HR value in months 3-6 relocation gap).  
-**Note**: This is secondary and does not change the B2C scope of the project.
+**Recommendation (B2C)**
+- Start with paid events → membership once repeat attendance is proven.
+- Pricing anchors: Timeleft ($16 ticket), Soho Friends ($130/year).
 
-**Sources**: `research/data/competitor_pricing.csv`, `research/Thematic coding.md`
+**Optional recommendation (not changing project scope)**: B2B2C as a future distribution layer after B2C traction (HR value in months 3–6 relocation gap).
 
----
-
-## Slide 14: Conclusion
-- The main barrier is emotional safety and "go-alone" risk, not a lack of events.
-- Survey data shows clear avoidance behavior and trust signal needs.
-- The solution is a trust-first, repeatable structure that makes people show up and return.
-- Next step: run a small-city pilot and measure show-up + repeat.
+**Next validation (pilot plan, TODO thresholds)**
+- Run 2–3 hosted first-meet events and measure show-up + repeat.
+- Smoke-test WTP via ticket or refundable deposit.
+- Define success thresholds for show-up and repeat rates.
