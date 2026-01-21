@@ -28,7 +28,15 @@
 
 ---
 
-## Slide 3: Market Opportunity
+## Slide 3: Research Question (Evolution)
+**Initial question**: Why do adults after relocation fail to build new social connections even when apps/events exist?  
+**Early signals**: People don’t show up because of “go‑alone” risk + emotional safety fears + no‑shows.  
+**Refined question**: Which mechanisms create enough trust and structure for people to show up and return?  
+**Success metrics**: show‑up rate, repeat attendance (3–4 meetings), at least one meaningful connection.
+
+---
+
+## Slide 4: Market Opportunity
 **The "Social Discovery" Market is Growing:**
 - **Market Size**: $2.5B (2024) → $7.6B by 2031 (**CAGR 17%**)
 - **Comparison**: Dating Apps earn $9B/year because users pay for *results and optimization*.
@@ -40,7 +48,7 @@
 
 ---
 
-## Slide 4: Research Methodology
+## Slide 5: Research Methodology
 **How We Validated the Problem:**
 
 | Method | Scope | Key Focus |
@@ -53,7 +61,7 @@
 
 ---
 
-## Slide 5: Thematic Coding — Key Insights from Interviews
+## Slide 6: Thematic Coding — Key Insights from Interviews
 
 | Theme | Insight | Key Quote |
 | :--- | :--- | :--- |
@@ -64,7 +72,7 @@
 
 ---
 
-## Slide 6: Why Existing Solutions Fail
+## Slide 7: Why Existing Solutions Fail
 
 | Model | Example | Why It Fails | What We Learn |
 | :--- | :--- | :--- | :--- |
@@ -78,7 +86,7 @@
 
 ---
 
-## Slide 7: Scientific Validation — Why Verification Works
+## Slide 8: Scientific Validation — Why Verification Works
 **Signaling Theory**: Trust is built when someone invests effort (Cost) that is hard to fake.
 - *Selfie* = Cheap Signal (Low Trust)
 - *LinkedIn profile / Marathon medal* = Costly Signal (High Trust)
@@ -91,7 +99,7 @@
 
 ---
 
-## Slide 8: Product Concept — Verified Connections
+## Slide 9: Product Concept — Verified Connections
 **A trust-based infrastructure for repeatable social groups.**
 
 **The 3-Layer Trust System:**
@@ -103,7 +111,7 @@
 
 ---
 
-## Slide 9: Target Persona
+## Slide 10: Target Persona
 **Omer (32), Relocated Tech Professional (Tel Aviv → Berlin)**
 - **Pain**: Busy, high opportunity cost of time. Can't afford to waste an evening on a failed meetup.
 - **Behavior**: Will NOT use a "swipe for friends" app (feels desperate).
@@ -113,7 +121,7 @@
 
 ---
 
-## Slide 10: Monetization Strategy
+## Slide 11: Monetization Strategy
 **Willingness to Pay (WTP)** is high for **Experiences**, low for "Apps".
 
 | Model | Example | Price Point |
@@ -126,7 +134,7 @@
 
 ---
 
-## Slide 11: Strategic Recommendation — B2B2C vs B2C
+## Slide 12: Strategic Recommendation — B2B2C vs B2C
 
 ### Our Primary Recommendation: **B2B2C Model**
 Based on our research, the B2B2C model has significant advantages:
@@ -147,7 +155,7 @@ Based on our research, the B2B2C model has significant advantages:
 
 ---
 
-## Slide 12: Validation Plan (Next Steps)
+## Slide 13: Validation Plan (Next Steps)
 1. **Deepen Interviews**: More relocators to validate "Trust Barrier" and "Month 3-6 Gap".
 2. **Smoke Test Landing Page**: "Tech Relocators Berlin — Verified Members Only"
    - **Metric 1**: Conversion to "Apply to Join" (sharing personal details = trust signal)
@@ -156,7 +164,7 @@ Based on our research, the B2B2C model has significant advantages:
 
 ---
 
-## Slide 13: Conclusion
+## Slide 14: Conclusion
 - **Problem**: It's not "lack of events", it's **lack of reliable, trusted structure**.
 - **Research Validated**: Flakiness (42%) and Emotional Safety are the core barriers.
 - **Scientific Backing**: "Costly Signaling" explains why verification creates trust.
