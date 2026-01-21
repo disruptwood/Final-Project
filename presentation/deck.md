@@ -1,5 +1,6 @@
 # Final Project: Verified Connections for Relocators
 **Problem #12: People struggle to build and maintain social connections after moving.**
+
 **Problem Reframed: Adults struggle to build social connections not because they can't find events, but because they lack trusted, structured environments with reliable people.**
 
 ---
