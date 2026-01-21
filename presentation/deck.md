@@ -6,7 +6,7 @@
 ## Slide 1: Title and One-Liner
 **Project**: Verified Connections  
 **One-liner**: Verified onboarding + reliability signals that make first meetings safe and repeatable.  
-**Team**: [Names]
+**Team**: [Ilya, Nitzan, Ishay]
 
 ---
 
